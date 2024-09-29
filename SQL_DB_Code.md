@@ -24,7 +24,9 @@ CREATE TABLE Exchange_Rates
 
 Target_Currency	Base_Currency	Conversion_Rates	Last_Update_Date
 
-~~~ SQL|Target_Currency| Base_Currency| Conversion_Rates| Last_Update_Date|
+~~~ SQL
+
+| **Target_Currency** | **Base_Currency** | **Conversion_Rates** | **Last_Update_Date** |
 |---|------|-----|----|-------------------|
 |USD|	USD|	1|      	2024-09-29|
 |AED|	USD|	3,6725| 	2024-09-29|
