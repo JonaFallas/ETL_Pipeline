@@ -21,11 +21,6 @@ CREATE TABLE Exchange_Rates
 
 -- Inspecting the data after running the ETL process in python.
 
-
-Target_Currency	Base_Currency	Conversion_Rates	Last_Update_Date
-
-~~~ SQL
-
 | **Target_Currency** | **Base_Currency** | **Conversion_Rates** | **Last_Update_Date** |
 |---------------------|-------------------|----------------------|----------------------|
 |	USD	      |		USD       |	     1		 |     	2024-09-29	|
